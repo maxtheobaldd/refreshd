@@ -1,12 +1,11 @@
 ---
 template: index-page
 slug: /
-title: Wyatt Morriss
-tagline: Graphic Designer
-featuredImage: /assets/toa-heftiba-0rlfirsdvzu-unsplash.jpg
+title: Refresh'd
+tagline: All natural. All Refresh'd
+featuredImage: /assets/green-and-red-modern-healthy-juice-logo-3-.png
 cta:
-  ctaText: Know more
+  ctaText: About Us!
   ctaLink: /about
 ---
-
-He is a award winning gaming graphic designer, based in sunny side of California. Working as Principal designer at Bethesda
+Refresh'd is a soft drink brand that specializes in unique and refreshing flavors. From the classic Watermelon to other options like orange and appple, Refresh'd has a variety of options for every taste. Made with *all* natural ingredients and *no* artificial sweeteners, Refresh'd offers a healthier alternative to traditional sugary drinks. Perfect for any occasion, let Refresh'd quench your thirst with its delicious options.
